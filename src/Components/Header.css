@@ -1,0 +1,27 @@
+.dailyPhoto {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    width: 80%;
+    border: 1px solid;
+}
+
+.card {
+    width:100%;
+}
+
+img {
+    width: 58.3%;
+}
+
+.test {
+    border-color: black;
+}
